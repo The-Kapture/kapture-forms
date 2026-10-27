@@ -4,6 +4,13 @@ Future Claude sessions land here. This file tells you what the project is, how i
 
 ---
 
+> **Repositioned 27 Oct 2026 (Rodney).** Kapture Forms is now a **free tool that solves onboarding form logic**
+> (conditional steps, progressive disclosure, branching, lead capture), shipped inside Kapture Studio at
+> https://studio.thekapture.com/app/forms as a lead magnet for Komponents, Studio Plus and Kapture services. See
+> `strategy/05_FREE_ONBOARDING_REPOSITION.md`. The paid compliance marketplace below, its £29 floor and the 70/30 programme
+> are paused pending Rodney's decision; do not build on them without checking.
+
+
 ## You are working on Kapture Forms
 
 Kapture Forms is a **vertical marketplace** of pre-built compliance forms. It is **not** a feature inside another Kapture product. It has its own brand, its own pricing, its own publishers, its own GitHub repo (when bootstrapped).
