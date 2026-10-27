@@ -1,5 +1,9 @@
 # Kapture Forms
 
+> **Now free, in Kapture Studio:** onboarding forms with conditional steps, branching and lead capture at
+> https://studio.thekapture.com/app/forms. Why and what changed: `strategy/05_FREE_ONBOARDING_REPOSITION.md`. The paid
+> compliance marketplace described below is paused.
+
 The forms store. Pre-built, branded, audit-hashed compliance forms for every industry — exported in five formats (PDF, DOCX, HTML, CSV, Google Forms) or run hosted with magic-link invitations and a queue. Curated marketplace, 70/30 publisher revenue share.
 
 > One form pack. Five export formats. Sold as a download, run as a hosted licence, or listed by a publisher.
